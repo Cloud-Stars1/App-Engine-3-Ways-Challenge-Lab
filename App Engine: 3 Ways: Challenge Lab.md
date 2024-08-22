@@ -3,7 +3,7 @@
 ## Solution [here](https://youtu.be/gnRrAbUzMdc)
 
 ### Run the following Commands in the Cloud shell
-#### NOTE ▶️ Do not perform the lab in europe-west4 region otherwise you won’t get full score
+#### NOTE ➡️  Do not perform the lab in europe-west4 region otherwise you won’t get full score
 
 ```
 export REGION=
